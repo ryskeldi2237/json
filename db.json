@@ -1,5 +1,5 @@
-
-    [
+{
+  "products": [
     {
       "title": "Cuban link 2nd line ",
       "imageUrl" : "/img/item.png",
@@ -21,3 +21,4 @@
       "descr":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
     }
   ]
+}
