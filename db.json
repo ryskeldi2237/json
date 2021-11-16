@@ -1,24 +1,72 @@
 {
-  "products": [
-    {
-      "title": "Cuban link 2nd line ",
-      "imageUrl" : "/img/item.png",
-      "descr":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
-    },
-    {
-      "title": "Cuban link 2nd line ",
-      "imageUrl" : "/img/item.png",
-      "descr":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
-    },
-    {
-      "title": "Cuban link 2nd line ",
-      "imageUrl" : "/img/item.png",
-      "descr":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
-    },
-    {
-      "title": "Cuban link 2nd line ",
-      "imageUrl" : "/img/item.png",
-      "descr":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
-    }
-  ]
+  "id": 1,
+  "imageUrl":"https://dodopizza-a.akamaihd.net/static/Img/Products/9b962be9cef54d5ca6197939549e1d5c_584x584.jpeg",
+  "name": "Грибной Cтартер",
+  "types": [0,1,2],
+  "sizes": [0, 2],
+  "price": 159,
+  "category": 1,
+  "rating": 6
+},
+{
+  "id": 2,
+  "imageUrl":"https://dodopizza-a.akamaihd.net/static/Img/Products/2c9ccc448944480caec63a60e16bc56e_584x584.jpeg",
+  "name": "Фонданы",
+  "types": [0 ,  2],
+  "sizes": [0,1, 2],
+  "price": 289,
+  "category": 1,
+  "rating": 4
+},
+{
+  "id": 3,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c810798810a947cfb071ae825230bed4_584x584.jpeg",
+  "name": "Яблочный пирог",
+  "types": [0,1],
+  "sizes": [1, 2 ],
+  "price": 129,
+  "category": 2,
+  "rating": 2
+},
+{
+  "id": 4,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c8e4c62f824147ff8dc3a22d553144f4_584x584.jpeg",
+  "name": "Рулетики с ананасами + Рулетики с брусникой",
+  "types": [0, 1],
+  "sizes": [ 0,1,2],
+  "price": 195,
+  "category": 3,
+  "rating": 8
+},
+{
+  "id": 5,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/6eacb241458547c68a570d86954568aa_584x584.jpeg",
+  "name": "Бруслетики",
+  "types": [0,2],
+  "sizes": [ 0 , 1 ],
+  "price": 275,
+  "category": 3,
+  "rating": 8
+},
+{
+  "id": 6,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/865a71016d184985a95dd6aa74355c68_584x584.jpeg",
+  "name": "Сырники со сгущенным молоком",
+  "types": [0 , 1],
+  "sizes": [ 0, 1,  2],
+  "price": 289,
+  "category": 1,
+  "rating": 8
+},
+{
+  "id": 7,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/530f0fecb8b34b07b50d073bd7c2457b_584x584.jpeg",
+  "name": "Маффин Три шоколада",
+  "types": [ 0],
+  "sizes": [ 0,1,2],
+  "price": 89,
+  "category": 3,
+  "rating": 8
+}
+]
 }
